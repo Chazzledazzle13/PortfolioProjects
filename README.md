@@ -1,6 +1,6 @@
-#Portfolio Projects
+# 📁 Portfolio Projects
 
-## Portfolio Project List
+## 📂 Portfolio Project List
 
 | Project Type      |                                     Link to Project                                                              |                            Description                                       |
 | ------------------| ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
